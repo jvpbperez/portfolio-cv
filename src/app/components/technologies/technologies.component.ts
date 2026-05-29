@@ -34,7 +34,7 @@ export class TechnologiesComponent {
   ];
 
   frontend = [
-    'Angular 18',
+    'Angular 17/18',
     'TypeScript',
     'JavaScript',
     'RxJS',
